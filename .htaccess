@@ -1,4 +1,4 @@
-AuthUserFile /kaneko6161.github.io/.htpasswd
+AuthUserFile /kaneko6161/kaneko6161.github.io/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Input ID and Password."
 AuthType Basic
